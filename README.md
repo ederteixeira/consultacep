@@ -1,5 +1,5 @@
 ## Consulta CEP 
 
-Consulta de API em python
+API de consulta básica em python.
 
 
