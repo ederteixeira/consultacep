@@ -10,6 +10,11 @@ Tecnologia:
 * Python
 
 Bibliotecas:
-* requests
+* requests      
+
+      pip3 install requests
+
 * json
+
+      Biblioteca built-in
 
